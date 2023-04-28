@@ -1,0 +1,16 @@
+{
+  "name": "toplist",
+  "version": "1.0.0",
+  "description": "Projet de playlist",
+  "main": "index.php",
+  "homepage": "https://mascarotony.github.io/TopList.fr",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "author": "Mascaro.dev",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^5.0.0",
+    "prettier": "^2.8.8"
+  }
+}
